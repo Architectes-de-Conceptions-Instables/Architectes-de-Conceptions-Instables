@@ -1,4 +1,4 @@
-- Hi, I’m @Architectes-de-Conceptions-Instables
+- Hi, I’m @Architectes-de-Conceptions-Instables. 
 I wanna be a software engineer, but I have no résumé!
 
 <!---
